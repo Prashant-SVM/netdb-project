@@ -1,0 +1,9 @@
+
+version: 2
+
+sources:
+  - name: NETDB_RAW
+    database: NETDB
+    schema: RAW
+    tables:
+      - name: NETFLIX_TITLES
